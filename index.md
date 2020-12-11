@@ -10,7 +10,7 @@ Os jogadores devem informar as seguintes informações para efetuar o cadastro e
 
 ### Características
 
-O algoritmo adota padrões de excelência em gestão de torneios _e-esports_, tais como:
+O algoritmo adota padrões de excelência em gestão de torneios _e-sports_, tais como:
 
 ```markdown
 # Features principais
