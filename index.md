@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Elite Fire
 
-You can use the [editor on GitHub](https://github.com/DVBX/elitefire/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Plaforma web de torneios do jogo Free Fire. Permite aos jogadores encontrarem torneios disponíveis em ambiente seguro conforme critério regional e/ou rating.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Os jogadores devem informar as seguintes informações para efetuar o cadastro.
+1. Nome completo;
+2. Data de nascimento;
+3. CPF;
+4. Telefone celular.
 
-### Markdown
+### Características
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A plataforma adota padrões de excelência em gestão de torneios _e-esports_, tais como :
 
 ```markdown
-Syntax highlighted code block
+- Pareamento de sistema suiço;
+- Cálculo de rating;
+- Mecanismos de controle anti-hacking.
 
-# Header 1
-## Header 2
-### Header 3
+# Ratings
+Sistema de classificação baseado através do método estatístico de sistema Elo.
 
-- Bulleted
-- List
+# Critérios de desempate
+1. Sistema Medidan-Bucholz 
+2. Número de vitórias
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DVBX/elitefire/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
