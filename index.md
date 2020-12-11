@@ -1,6 +1,6 @@
 ## Elite Fire
 
-Plaforma de torneios do jogo Free Fire. Permite aos jogadores encontrarem torneios disponíveis em ambiente seguro conforme critério regional e/ou rating.
+Plataforma de torneios do jogo Free Fire. Permite aos jogadores encontrarem torneios disponíveis em ambiente seguro conforme critério regional e/ou rating.
 
 Os jogadores devem informar as seguintes informações para efetuar o cadastro e concordar os termos de regulamento. 
 1. Nome completo;
