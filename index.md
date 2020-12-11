@@ -13,13 +13,14 @@ Os jogadores devem informar as seguintes informações para efetuar o cadastro e
 O algoritmo adota padrões de excelência em gestão de torneios _e-esports_, tais como:
 
 ```markdown
+# Features principais
 - Emparelhamento através de sistema suiço;
 - Cálculo de rating;
 - Mecanismos de controle anti-hacking por métodos estatísticos.
 
 # Ratings
-Sistema de classificação baseado através do cálculo de rating ELO permite estimar habilidade os jogadores ativos da plaforma. 
-- Torneios podem adotar o critério de rating mínimo;
+Sistema de classificação baseado através do cálculo de rating ELO. 
+- Torneios podem adotar o critério de rating;
 
 # Critérios de desempate
 1. Sistema Medidan-Bucholz;
