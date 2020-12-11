@@ -20,7 +20,7 @@ O algoritmo adota padrões de excelência em gestão de torneios _e-esports_, ta
 
 # Ratings
 Sistema de classificação baseado através do cálculo de rating ELO. 
-- Torneios podem adotar o critério de rating;
+- Torneios podem adotar o critério de rating.
 
 # Critérios de desempate
 1. Sistema Medidan-Bucholz;
