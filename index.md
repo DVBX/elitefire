@@ -1,8 +1,8 @@
 ## Elite Fire
 
-Plaforma web de torneios do jogo Free Fire. Permite aos jogadores encontrarem torneios disponíveis em ambiente seguro conforme critério regional e/ou rating.
+Plaforma de torneios do jogo Free Fire. Permite aos jogadores encontrarem torneios disponíveis em ambiente seguro conforme critério regional e/ou rating.
 
-Os jogadores devem informar as seguintes informações para efetuar o cadastro.
+Os jogadores devem informar as seguintes informações para efetuar o cadastro e concordar os termos de regulamento. 
 1. Nome completo;
 2. Data de nascimento;
 3. CPF;
@@ -10,19 +10,20 @@ Os jogadores devem informar as seguintes informações para efetuar o cadastro.
 
 ### Características
 
-A plataforma adota padrões de excelência em gestão de torneios _e-esports_, tais como :
+O algoritmo adota padrões de excelência em gestão de torneios _e-esports_, tais como:
 
 ```markdown
-- Pareamento de sistema suiço;
+- Emparelhamento através de sistema suiço;
 - Cálculo de rating;
-- Mecanismos de controle anti-hacking.
+- Mecanismos de controle anti-hacking por métodos estatísticos.
 
 # Ratings
-Sistema de classificação baseado através do método estatístico de sistema Elo.
+Sistema de classificação baseado através do cálculo de rating ELO permite estimar habilidade os jogadores ativos da plaforma. 
+- Torneios podem adotar o critério de rating mínimo;
 
 # Critérios de desempate
-1. Sistema Medidan-Bucholz 
-2. Número de vitórias
+1. Sistema Medidan-Bucholz;
+2. Número de vitórias.
 
 
 ```
