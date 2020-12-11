@@ -23,7 +23,7 @@ Sistema de classificação baseado através do cálculo de rating ELO.
 - Torneios podem adotar o critério de ingresso por rating.
 
 # Critérios de desempate
-1. Sistema Medidan-Bucholz;
+1. Sistema Median-Bucholz;
 2. Número de vitórias.
 
 
